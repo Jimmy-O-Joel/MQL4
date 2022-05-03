@@ -54,7 +54,7 @@ void    OnTick()
             
             if (IsTradingAllowed()){
             
-            if (!CheckIfOpenOrdersByMagicNB(magicNumber)){
+            if (!CheckIfOpenOrdersByMagicNumber(magicNumber)){
             
                 if (fastMA[0] > slowMA[0] && fastMA[1] < slowMA[1]) {
                     //send a buy order

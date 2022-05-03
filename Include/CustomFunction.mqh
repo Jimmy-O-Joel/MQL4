@@ -166,7 +166,7 @@ double OptimalLotSize(double maxRiskPrc, double entryPrice, double stopLoss)
 
 
 
-bool CheckIfOpenOrdersByMagicNB(int magicNB)
+bool CheckIfOpenOrdersByMagicNumber(int argMagicNumber)
 {
    int openOrders = OrdersTotal();
    
@@ -174,7 +174,7 @@ bool CheckIfOpenOrdersByMagicNB(int magicNB)
    {
       if(OrderSelect(i,SELECT_BY_POS)==true)
       {
-         if(OrderMagicNumber() == magicNB) 
+         if(OrderMagicNumber() == argMagicNumber && OrderSymbol() == Symbol()) 
          {
             return true;
          }  
