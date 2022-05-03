@@ -299,7 +299,7 @@ double  CalcLotSize(bool argDynamicLotSize, double argEquityPercent, double argS
             }
          else  LotSize = argFixedLotSize;
          
-         return VerifyLotSize(LotSize);
+         return LotSize;
     }
     
 double  VerifyLotSize(double argLotSize)
