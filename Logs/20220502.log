@@ -1,0 +1,1488 @@
+0	01:51:35.801	Expert BB Test Strat USDCAD,H1: loaded successfully
+0	01:51:39.368	BB Test Strat USDCAD,H1: Alert: 
+0	01:51:39.368	BB Test Strat USDCAD,H1: Alert: The EA has started
+0	01:51:39.368	BB Test Strat USDCAD,H1: initialized
+0	01:51:42.852	BB Test Strat USDCAD,H1: Alert: 
+0	01:51:42.858	BB Test Strat USDCAD,H1: Alert: 0.0
+0	01:51:42.925	BB Test Strat USDCAD,H1: Alert: Price is above bbUpper1, Sending short order
+0	01:51:42.929	BB Test Strat USDCAD,H1: Alert: Entry Price = 1.28505
+0	01:51:42.929	BB Test Strat USDCAD,H1: Alert: Stop Loss Price = 1.296
+0	01:51:42.929	BB Test Strat USDCAD,H1: Alert: Take Profit Price = 1.27821
+2	01:51:43.240	BB Test Strat USDCAD,H1: open #226228457 sell limit 0.24 USDCAD at 1.28505 sl: 1.29600 tp: 1.27821 ok
+0	01:51:43.240	BB Test Strat USDCAD,H1: OrderSend placed successfully
+0	01:51:44.054	BB Test Strat USDCAD,H1: Alert: 
+0	01:51:44.054	BB Test Strat USDCAD,H1: Alert: 0.0
+0	01:51:53.797	BB Test Strat USDCAD,H1: Alert: 
+0	01:51:53.797	BB Test Strat USDCAD,H1: Alert: 0.0
+0	01:51:55.798	BB Test Strat USDCAD,H1: Alert: 
+0	01:51:55.798	BB Test Strat USDCAD,H1: Alert: 0.0
+0	01:51:57.715	BB Test Strat USDCAD,H1: Alert: 
+0	01:51:57.715	BB Test Strat USDCAD,H1: Alert: 0.0
+0	01:51:59.227	BB Test Strat USDCAD,H1: Alert: 
+0	01:51:59.227	BB Test Strat USDCAD,H1: Alert: 0.0
+0	01:52:00.323	BB Test Strat USDCAD,H1: Alert: 
+0	01:52:00.323	BB Test Strat USDCAD,H1: Alert: 0.0
+0	01:52:02.958	BB Test Strat USDCAD,H1: uninit reason 1
+0	01:52:02.958	BB Test Strat USDCAD,H1: Alert: The EA has has closed
+0	01:52:02.971	Expert BB Test Strat USDCAD,H1: removed
+0	01:57:48.209	Custom indicator Bands USDCAD,H1: loaded successfully
+0	01:58:04.075	Bands USDCAD,H1: initialized
+0	01:58:31.944	Custom indicator Bands USDCAD,H1: loaded successfully
+0	01:59:02.460	Bands USDCAD,H1: initialized
+0	01:59:32.031	Expert BB Test Strat USDCAD,H1: loaded successfully
+0	01:59:34.414	BB Test Strat USDCAD,H1: Alert: 
+0	01:59:34.414	BB Test Strat USDCAD,H1: Alert: The EA has started
+0	01:59:34.414	BB Test Strat USDCAD,H1: initialized
+0	01:59:35.257	BB Test Strat USDCAD,H1: Alert: 
+0	01:59:35.258	BB Test Strat USDCAD,H1: Alert: 0.0
+0	01:59:35.421	BB Test Strat USDCAD,H1: Alert: 
+0	01:59:35.421	BB Test Strat USDCAD,H1: Alert: 0.0
+0	01:59:36.036	BB Test Strat USDCAD,H1: Alert: 
+0	01:59:36.036	BB Test Strat USDCAD,H1: Alert: 0.0
+0	01:59:37.561	BB Test Strat USDCAD,H1: Alert: 
+0	01:59:37.561	BB Test Strat USDCAD,H1: Alert: 0.0
+0	01:59:37.749	BB Test Strat USDCAD,H1: Alert: 
+0	01:59:37.749	BB Test Strat USDCAD,H1: Alert: 0.0
+0	01:59:42.160	BB Test Strat USDCAD,H1: Alert: 
+0	01:59:42.160	BB Test Strat USDCAD,H1: Alert: 0.0
+0	01:59:45.323	BB Test Strat USDCAD,H1: Alert: 
+0	01:59:45.324	BB Test Strat USDCAD,H1: Alert: 0.0
+0	01:59:48.385	BB Test Strat USDCAD,H1: Alert: 
+0	01:59:48.385	BB Test Strat USDCAD,H1: Alert: 0.0
+0	01:59:48.880	BB Test Strat USDCAD,H1: Alert: 
+0	01:59:48.881	BB Test Strat USDCAD,H1: Alert: 0.0
+0	01:59:50.429	BB Test Strat USDCAD,H1: uninit reason 1
+0	01:59:50.429	BB Test Strat USDCAD,H1: Alert: The EA has has closed
+0	01:59:50.439	Expert BB Test Strat USDCAD,H1: removed
+0	02:00:35.064	Expert BB Test Strat USDCAD,H1: loaded successfully
+0	02:00:37.219	BB Test Strat USDCAD,H1: Alert: 
+0	02:00:37.219	BB Test Strat USDCAD,H1: Alert: The EA has started
+0	02:00:37.219	BB Test Strat USDCAD,H1: initialized
+0	02:00:38.661	BB Test Strat USDCAD,H1: Alert: 
+0	02:00:38.661	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:00:44.567	BB Test Strat USDCAD,H1: Alert: 
+0	02:00:44.567	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:00:44.757	BB Test Strat USDCAD,H1: Alert: 
+0	02:00:44.757	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:00:44.963	BB Test Strat USDCAD,H1: Alert: 
+0	02:00:44.963	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:00:45.415	BB Test Strat USDCAD,H1: Alert: 
+0	02:00:45.415	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:00:45.576	BB Test Strat USDCAD,H1: Alert: 
+0	02:00:45.576	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:00:50.120	BB Test Strat USDCAD,H1: Alert: 
+0	02:00:50.120	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:00:50.504	BB Test Strat USDCAD,H1: Alert: 
+0	02:00:50.504	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:00:52.651	BB Test Strat USDCAD,H1: Alert: 
+0	02:00:52.651	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:00:53.851	BB Test Strat USDCAD,H1: Alert: 
+0	02:00:53.851	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:00:57.010	BB Test Strat USDCAD,H1: Alert: 
+0	02:00:57.010	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:00:57.478	BB Test Strat USDCAD,H1: Alert: 
+0	02:00:57.478	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:00:57.569	BB Test Strat USDCAD,H1: Alert: 
+0	02:00:57.569	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:00:57.761	BB Test Strat USDCAD,H1: Alert: 
+0	02:00:57.761	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:00:57.983	BB Test Strat USDCAD,H1: Alert: 
+0	02:00:57.983	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:00:58.155	BB Test Strat USDCAD,H1: Alert: 
+0	02:00:58.155	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:00:58.309	BB Test Strat USDCAD,H1: Alert: 
+0	02:00:58.309	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:00:59.869	BB Test Strat USDCAD,H1: Alert: 
+0	02:00:59.869	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:01:02.955	BB Test Strat USDCAD,H1: Alert: 
+0	02:01:02.955	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:01:03.348	BB Test Strat USDCAD,H1: Alert: 
+0	02:01:03.348	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:01:03.789	BB Test Strat USDCAD,H1: Alert: 
+0	02:01:03.789	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:01:04.006	BB Test Strat USDCAD,H1: Alert: 
+0	02:01:04.006	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:01:05.541	BB Test Strat USDCAD,H1: Alert: 
+0	02:01:05.541	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:01:07.443	BB Test Strat USDCAD,H1: Alert: 
+0	02:01:07.443	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:01:09.248	BB Test Strat USDCAD,H1: Alert: 
+0	02:01:09.248	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:01:09.872	BB Test Strat USDCAD,H1: Alert: 
+0	02:01:09.873	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:01:10.068	BB Test Strat USDCAD,H1: Alert: 
+0	02:01:10.068	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:01:10.539	BB Test Strat USDCAD,H1: Alert: 
+0	02:01:10.540	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:01:10.696	BB Test Strat USDCAD,H1: Alert: 
+0	02:01:10.696	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:01:11.695	BB Test Strat USDCAD,H1: Alert: 
+0	02:01:11.695	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:01:14.731	BB Test Strat USDCAD,H1: uninit reason 1
+0	02:01:14.731	BB Test Strat USDCAD,H1: Alert: The EA has has closed
+0	02:01:14.743	Expert BB Test Strat USDCAD,H1: removed
+0	02:02:08.647	Expert BB Test Strat USDCAD,H1: loaded successfully
+0	02:02:10.595	BB Test Strat USDCAD,H1: Alert: 
+0	02:02:10.595	BB Test Strat USDCAD,H1: Alert: The EA has started
+0	02:02:10.595	BB Test Strat USDCAD,H1: initialized
+0	02:02:10.629	BB Test Strat USDCAD,H1: Alert: 
+0	02:02:10.629	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:02:10.637	BB Test Strat USDCAD,H1: Alert: Price is above bbUpper1, Sending short order
+0	02:02:10.637	BB Test Strat USDCAD,H1: Alert: Entry Price = 1.28451
+0	02:02:10.637	BB Test Strat USDCAD,H1: Alert: Stop Loss Price = 1.297
+0	02:02:10.637	BB Test Strat USDCAD,H1: Alert: Take Profit Price = 1.27852
+2	02:02:10.904	BB Test Strat USDCAD,H1: open #226235285 sell limit 0.21 USDCAD at 1.28451 sl: 1.29700 tp: 1.27852 ok
+0	02:02:10.904	BB Test Strat USDCAD,H1: OrderSend placed successfully
+0	02:02:11.074	BB Test Strat USDCAD,H1: Alert: 
+0	02:02:11.074	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:02:13.570	BB Test Strat USDCAD,H1: Alert: 
+0	02:02:13.570	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:02:13.770	BB Test Strat USDCAD,H1: Alert: 
+0	02:02:13.770	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:02:15.435	BB Test Strat USDCAD,H1: Alert: 
+0	02:02:15.435	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:02:15.707	BB Test Strat USDCAD,H1: Alert: 
+0	02:02:15.707	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:02:18.890	BB Test Strat USDCAD,H1: Alert: 
+0	02:02:18.891	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:02:19.026	BB Test Strat USDCAD,H1: Alert: 
+0	02:02:19.026	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:02:19.923	BB Test Strat USDCAD,H1: Alert: 
+0	02:02:19.923	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:02:25.621	BB Test Strat USDCAD,H1: Alert: 
+0	02:02:25.621	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:02:25.963	BB Test Strat USDCAD,H1: Alert: 
+0	02:02:25.963	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:02:30.158	BB Test Strat USDCAD,H1: Alert: 
+0	02:02:30.158	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:02:30.642	BB Test Strat USDCAD,H1: Alert: 
+0	02:02:30.642	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:02:30.857	BB Test Strat USDCAD,H1: Alert: 
+0	02:02:30.857	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:02:30.980	BB Test Strat USDCAD,H1: Alert: 
+0	02:02:30.980	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:02:31.666	BB Test Strat USDCAD,H1: Alert: 
+0	02:02:31.666	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:02:31.826	BB Test Strat USDCAD,H1: Alert: 
+0	02:02:31.826	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:02:33.678	BB Test Strat USDCAD,H1: uninit reason 1
+0	02:02:33.678	BB Test Strat USDCAD,H1: Alert: The EA has has closed
+0	02:02:33.691	Expert BB Test Strat USDCAD,H1: removed
+0	02:56:37.135	Expert BB Test Strat USDCAD,H1: loaded successfully
+0	02:56:40.476	BB Test Strat USDCAD,H1: Alert: 
+0	02:56:40.477	BB Test Strat USDCAD,H1: Alert: The EA has started
+0	02:56:40.477	BB Test Strat USDCAD,H1: initialized
+0	02:56:42.622	BB Test Strat USDCAD,H1: Alert: 
+0	02:56:42.622	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:56:42.653	BB Test Strat USDCAD,H1: Alert: Price is above bbUpper1, Sending short order
+0	02:56:42.661	BB Test Strat USDCAD,H1: Alert: Entry Price = 1.28522
+0	02:56:42.661	BB Test Strat USDCAD,H1: Alert: Stop Loss Price = 1.29723
+0	02:56:42.661	BB Test Strat USDCAD,H1: Alert: Take Profit Price = 1.27856
+2	02:56:42.990	BB Test Strat USDCAD,H1: open #226266944 sell limit 0.21 USDCAD at 1.28522 sl: 1.29723 tp: 1.27856 ok
+0	02:56:42.990	BB Test Strat USDCAD,H1: OrderSend placed successfully
+0	02:56:42.990	BB Test Strat USDCAD,H1: Alert: 
+0	02:56:42.990	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:56:43.703	BB Test Strat USDCAD,H1: Alert: 
+0	02:56:43.703	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:56:44.388	BB Test Strat USDCAD,H1: Alert: 
+0	02:56:44.388	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:56:46.899	BB Test Strat USDCAD,H1: Alert: 
+0	02:56:46.899	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:56:47.131	BB Test Strat USDCAD,H1: Alert: 
+0	02:56:47.131	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:56:47.306	BB Test Strat USDCAD,H1: Alert: 
+0	02:56:47.306	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:56:47.819	BB Test Strat USDCAD,H1: Alert: 
+0	02:56:47.819	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:56:48.272	BB Test Strat USDCAD,H1: Alert: 
+0	02:56:48.272	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:56:48.459	BB Test Strat USDCAD,H1: Alert: 
+0	02:56:48.459	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:56:48.592	BB Test Strat USDCAD,H1: Alert: 
+0	02:56:48.592	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:56:49.579	BB Test Strat USDCAD,H1: Alert: 
+0	02:56:49.579	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:56:50.154	BB Test Strat USDCAD,H1: Alert: 
+0	02:56:50.154	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:56:50.835	BB Test Strat USDCAD,H1: Alert: 
+0	02:56:50.835	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:56:51.071	BB Test Strat USDCAD,H1: Alert: 
+0	02:56:51.071	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:56:52.411	BB Test Strat USDCAD,H1: Alert: 
+0	02:56:52.412	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:56:52.561	BB Test Strat USDCAD,H1: Alert: 
+0	02:56:52.561	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:56:53.346	BB Test Strat USDCAD,H1: Alert: 
+0	02:56:53.346	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:56:53.495	BB Test Strat USDCAD,H1: Alert: 
+0	02:56:53.495	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:56:55.185	BB Test Strat USDCAD,H1: Alert: 
+0	02:56:55.186	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:56:55.513	BB Test Strat USDCAD,H1: Alert: 
+0	02:56:55.513	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:56:55.761	BB Test Strat USDCAD,H1: Alert: 
+0	02:56:55.761	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:56:58.651	BB Test Strat USDCAD,H1: Alert: 
+0	02:56:58.651	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:57:00.581	BB Test Strat USDCAD,H1: Alert: 
+0	02:57:00.581	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:57:02.025	BB Test Strat USDCAD,H1: Alert: 
+0	02:57:02.025	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:57:03.845	BB Test Strat USDCAD,H1: Alert: 
+0	02:57:03.845	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:57:04.391	BB Test Strat USDCAD,H1: Alert: 
+0	02:57:04.391	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:57:04.720	BB Test Strat USDCAD,H1: Alert: 
+0	02:57:04.720	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:57:04.936	BB Test Strat USDCAD,H1: Alert: 
+0	02:57:04.936	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:57:07.180	BB Test Strat USDCAD,H1: Alert: 
+0	02:57:07.180	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:57:07.377	BB Test Strat USDCAD,H1: Alert: 
+0	02:57:07.377	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:57:07.754	BB Test Strat USDCAD,H1: Alert: 
+0	02:57:07.754	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:57:08.343	BB Test Strat USDCAD,H1: Alert: 
+0	02:57:08.344	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:57:08.490	BB Test Strat USDCAD,H1: Alert: 
+0	02:57:08.490	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:57:12.064	BB Test Strat USDCAD,H1: Alert: 
+0	02:57:12.064	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:57:12.299	BB Test Strat USDCAD,H1: Alert: 
+0	02:57:12.300	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:57:13.280	BB Test Strat USDCAD,H1: Alert: 
+0	02:57:13.280	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:57:13.900	BB Test Strat USDCAD,H1: Alert: 
+0	02:57:13.900	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:57:15.304	BB Test Strat USDCAD,H1: Alert: 
+0	02:57:15.304	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:57:15.941	BB Test Strat USDCAD,H1: Alert: 
+0	02:57:15.941	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:57:17.285	BB Test Strat USDCAD,H1: Alert: 
+0	02:57:17.285	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:57:17.447	BB Test Strat USDCAD,H1: Alert: 
+0	02:57:17.447	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:57:30.761	BB Test Strat USDCAD,H1: Alert: 
+0	02:57:30.761	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:57:31.197	BB Test Strat USDCAD,H1: Alert: 
+0	02:57:31.197	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:57:32.150	BB Test Strat USDCAD,H1: Alert: 
+0	02:57:32.150	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:57:47.946	BB Test Strat USDCAD,H1: Alert: 
+0	02:57:47.946	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:57:48.103	BB Test Strat USDCAD,H1: Alert: 
+0	02:57:48.103	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:57:48.253	BB Test Strat USDCAD,H1: Alert: 
+0	02:57:48.253	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:57:48.648	BB Test Strat USDCAD,H1: Alert: 
+0	02:57:48.648	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:57:48.824	BB Test Strat USDCAD,H1: Alert: 
+0	02:57:48.824	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:57:49.056	BB Test Strat USDCAD,H1: Alert: 
+0	02:57:49.056	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:57:50.488	BB Test Strat USDCAD,H1: Alert: 
+0	02:57:50.488	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:57:50.808	BB Test Strat USDCAD,H1: Alert: 
+0	02:57:50.808	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:57:50.917	BB Test Strat USDCAD,H1: Alert: 
+0	02:57:50.917	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:57:55.323	BB Test Strat USDCAD,H1: Alert: 
+0	02:57:55.323	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:57:55.482	BB Test Strat USDCAD,H1: Alert: 
+0	02:57:55.482	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:57:56.173	BB Test Strat USDCAD,H1: Alert: 
+0	02:57:56.174	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:57:59.086	BB Test Strat USDCAD,H1: Alert: 
+0	02:57:59.086	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:00.055	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:00.055	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:01.242	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:01.242	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:03.346	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:03.346	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:03.963	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:03.963	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:04.149	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:04.149	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:06.678	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:06.678	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:07.376	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:07.376	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:07.829	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:07.829	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:07.996	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:07.996	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:08.179	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:08.179	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:08.327	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:08.327	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:08.784	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:08.784	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:09.524	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:09.524	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:09.695	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:09.695	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:09.862	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:09.862	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:10.409	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:10.409	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:10.561	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:10.561	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:10.877	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:10.877	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:11.064	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:11.064	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:11.237	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:11.237	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:11.537	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:11.537	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:11.727	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:11.727	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:11.838	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:11.838	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:12.793	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:12.793	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:13.227	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:13.227	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:13.443	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:13.443	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:13.682	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:13.682	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:14.090	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:14.090	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:14.242	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:14.242	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:14.579	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:14.579	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:14.724	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:14.725	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:14.908	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:14.908	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:15.064	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:15.064	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:15.242	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:15.242	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:15.540	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:15.540	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:15.663	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:15.663	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:16.441	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:16.441	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:16.493	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:16.493	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:16.904	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:16.904	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:17.242	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:17.242	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:17.914	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:17.914	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:18.311	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:18.311	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:20.031	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:20.031	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:20.174	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:20.174	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:20.327	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:20.327	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:20.487	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:20.487	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:21.236	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:21.236	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:21.318	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:21.318	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:21.467	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:21.467	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:21.645	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:21.645	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:22.312	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:22.312	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:22.584	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:22.584	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:22.713	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:22.713	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:23.859	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:23.859	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:24.033	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:24.033	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:24.168	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:24.168	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:24.996	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:24.996	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:26.819	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:26.819	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:27.044	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:27.044	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:28.193	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:28.193	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:29.160	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:29.160	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:29.655	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:29.655	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:32.724	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:32.724	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:34.035	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:34.035	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:34.701	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:34.701	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:35.190	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:35.190	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:35.548	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:35.548	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:36.046	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:36.046	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:37.046	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:37.046	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:37.162	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:37.162	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:38.662	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:38.662	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:39.730	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:39.730	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:39.932	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:39.932	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:41.187	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:41.187	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:43.805	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:43.805	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:45.046	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:45.046	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:45.794	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:45.794	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:45.972	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:45.972	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:46.243	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:46.243	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:46.884	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:46.884	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:47.021	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:47.021	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:47.144	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:47.144	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:49.583	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:49.583	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:50.025	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:50.025	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:52.056	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:52.056	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:52.217	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:52.217	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:52.465	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:52.465	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:52.837	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:52.837	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:53.274	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:53.274	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:53.946	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:53.946	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:54.531	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:54.531	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:54.689	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:54.689	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:55.628	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:55.628	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:56.294	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:56.294	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:56.618	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:56.618	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:57.933	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:57.933	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:58:58.975	BB Test Strat USDCAD,H1: Alert: 
+0	02:58:58.975	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:59:00.686	BB Test Strat USDCAD,H1: Alert: 
+0	02:59:00.686	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:59:01.219	BB Test Strat USDCAD,H1: Alert: 
+0	02:59:01.219	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:59:01.730	BB Test Strat USDCAD,H1: Alert: 
+0	02:59:01.730	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:59:02.188	BB Test Strat USDCAD,H1: Alert: 
+0	02:59:02.188	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:59:06.105	BB Test Strat USDCAD,H1: Alert: 
+0	02:59:06.105	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:59:07.690	BB Test Strat USDCAD,H1: Alert: 
+0	02:59:07.690	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:59:08.160	BB Test Strat USDCAD,H1: Alert: 
+0	02:59:08.160	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:59:08.394	BB Test Strat USDCAD,H1: Alert: 
+0	02:59:08.394	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:59:12.037	BB Test Strat USDCAD,H1: Alert: 
+0	02:59:12.037	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:59:12.778	BB Test Strat USDCAD,H1: Alert: 
+0	02:59:12.778	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:59:12.946	BB Test Strat USDCAD,H1: Alert: 
+0	02:59:12.946	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:59:13.095	BB Test Strat USDCAD,H1: Alert: 
+0	02:59:13.095	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:59:13.408	BB Test Strat USDCAD,H1: Alert: 
+0	02:59:13.408	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:59:14.301	BB Test Strat USDCAD,H1: Alert: 
+0	02:59:14.301	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:59:15.307	BB Test Strat USDCAD,H1: Alert: 
+0	02:59:15.307	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:59:15.758	BB Test Strat USDCAD,H1: Alert: 
+0	02:59:15.758	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:59:23.541	BB Test Strat USDCAD,H1: Alert: 
+0	02:59:23.541	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:59:28.315	BB Test Strat USDCAD,H1: Alert: 
+0	02:59:28.315	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:59:28.472	BB Test Strat USDCAD,H1: Alert: 
+0	02:59:28.472	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:59:28.753	BB Test Strat USDCAD,H1: Alert: 
+0	02:59:28.753	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:59:29.581	BB Test Strat USDCAD,H1: Alert: 
+0	02:59:29.581	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:59:30.686	BB Test Strat USDCAD,H1: Alert: 
+0	02:59:30.686	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:59:30.766	BB Test Strat USDCAD,H1: Alert: 
+0	02:59:30.766	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:59:31.095	BB Test Strat USDCAD,H1: Alert: 
+0	02:59:31.095	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:59:31.280	BB Test Strat USDCAD,H1: Alert: 
+0	02:59:31.280	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:59:31.691	BB Test Strat USDCAD,H1: Alert: 
+0	02:59:31.691	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:59:32.035	BB Test Strat USDCAD,H1: Alert: 
+0	02:59:32.035	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:59:35.345	BB Test Strat USDCAD,H1: Alert: 
+0	02:59:35.345	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:59:36.856	BB Test Strat USDCAD,H1: Alert: 
+0	02:59:36.856	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:59:38.193	BB Test Strat USDCAD,H1: Alert: 
+0	02:59:38.193	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:59:38.909	BB Test Strat USDCAD,H1: Alert: 
+0	02:59:38.909	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:59:39.813	BB Test Strat USDCAD,H1: Alert: 
+0	02:59:39.813	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:59:39.987	BB Test Strat USDCAD,H1: Alert: 
+0	02:59:39.987	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:59:41.890	BB Test Strat USDCAD,H1: Alert: 
+0	02:59:41.890	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:59:42.059	BB Test Strat USDCAD,H1: Alert: 
+0	02:59:42.059	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:59:44.080	BB Test Strat USDCAD,H1: Alert: 
+0	02:59:44.080	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:59:45.747	BB Test Strat USDCAD,H1: Alert: 
+0	02:59:45.747	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:59:45.846	BB Test Strat USDCAD,H1: Alert: 
+0	02:59:45.846	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:59:46.208	BB Test Strat USDCAD,H1: Alert: 
+0	02:59:46.208	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:59:46.849	BB Test Strat USDCAD,H1: Alert: 
+0	02:59:46.849	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:59:47.270	BB Test Strat USDCAD,H1: Alert: 
+0	02:59:47.270	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:59:47.489	BB Test Strat USDCAD,H1: Alert: 
+0	02:59:47.489	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:59:47.943	BB Test Strat USDCAD,H1: Alert: 
+0	02:59:47.943	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:59:48.693	BB Test Strat USDCAD,H1: Alert: 
+0	02:59:48.693	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:59:48.882	BB Test Strat USDCAD,H1: Alert: 
+0	02:59:48.882	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:59:51.467	BB Test Strat USDCAD,H1: Alert: 
+0	02:59:51.467	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:59:51.626	BB Test Strat USDCAD,H1: Alert: 
+0	02:59:51.626	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:59:51.829	BB Test Strat USDCAD,H1: Alert: 
+0	02:59:51.829	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:59:55.377	BB Test Strat USDCAD,H1: Alert: 
+0	02:59:55.377	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:59:56.520	BB Test Strat USDCAD,H1: Alert: 
+0	02:59:56.520	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:59:56.594	BB Test Strat USDCAD,H1: Alert: 
+0	02:59:56.595	BB Test Strat USDCAD,H1: Alert: 0.0
+0	02:59:57.675	BB Test Strat USDCAD,H1: Alert: 
+0	02:59:57.675	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:00.525	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:00.525	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:01.640	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:01.640	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:01.951	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:01.952	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:02.854	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:02.854	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:04.077	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:04.077	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:04.729	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:04.729	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:05.839	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:05.839	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:06.615	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:06.615	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:08.304	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:08.304	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:09.293	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:09.293	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:11.441	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:11.441	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:11.726	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:11.726	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:11.960	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:11.960	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:12.129	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:12.129	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:12.366	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:12.366	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:12.616	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:12.616	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:12.771	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:12.771	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:15.546	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:15.546	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:15.650	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:15.650	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:16.092	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:16.093	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:16.688	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:16.688	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:18.017	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:18.017	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:18.175	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:18.176	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:21.613	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:21.613	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:21.884	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:21.884	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:22.070	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:22.070	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:22.703	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:22.703	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:22.800	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:22.800	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:22.996	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:22.996	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:26.794	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:26.794	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:29.684	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:29.684	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:31.900	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:31.900	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:32.290	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:32.290	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:33.240	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:33.240	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:33.389	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:33.389	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:33.588	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:33.588	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:33.752	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:33.752	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:33.946	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:33.946	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:34.435	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:34.436	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:34.956	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:34.956	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:35.365	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:35.365	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:35.525	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:35.525	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:35.776	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:35.777	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:36.891	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:36.891	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:37.063	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:37.063	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:40.299	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:40.299	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:40.548	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:40.548	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:41.515	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:41.516	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:42.442	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:42.442	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:43.911	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:43.911	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:44.177	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:44.177	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:44.312	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:44.312	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:44.450	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:44.450	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:44.900	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:44.900	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:45.052	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:45.052	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:45.354	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:45.354	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:45.554	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:45.554	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:45.738	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:45.738	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:45.965	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:45.965	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:46.185	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:46.185	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:47.100	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:47.100	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:47.883	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:47.883	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:48.036	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:48.036	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:48.356	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:48.356	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:48.928	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:48.928	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:49.427	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:49.427	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:49.563	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:49.563	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:51.056	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:51.056	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:52.279	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:52.279	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:54.280	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:54.280	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:54.556	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:54.556	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:54.810	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:54.810	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:54.941	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:54.941	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:55.535	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:55.535	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:56.950	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:56.950	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:56.950	BB Test Strat USDCAD,H1: Alert: Price is above bbUpper1, Sending short order
+0	03:00:56.971	BB Test Strat USDCAD,H1: Alert: Entry Price = 1.28488
+0	03:00:56.971	BB Test Strat USDCAD,H1: Alert: Stop Loss Price = 1.29834
+0	03:00:56.988	BB Test Strat USDCAD,H1: Alert: Take Profit Price = 1.27901
+2	03:00:57.243	BB Test Strat USDCAD,H1: open #226270606 sell limit 0.19 USDCAD at 1.28488 sl: 1.29834 tp: 1.27901 ok
+0	03:00:57.243	BB Test Strat USDCAD,H1: OrderSend placed successfully
+0	03:00:57.271	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:57.271	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:57.750	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:57.750	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:57.930	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:57.930	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:58.796	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:58.796	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:59.547	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:59.547	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:00:59.731	BB Test Strat USDCAD,H1: Alert: 
+0	03:00:59.731	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:00.126	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:00.126	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:00.469	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:00.470	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:00.607	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:00.607	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:00.789	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:00.789	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:01.184	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:01.184	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:01.352	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:01.352	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:01.703	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:01.703	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:03.055	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:03.055	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:03.275	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:03.275	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:04.849	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:04.849	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:05.098	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:05.098	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:05.298	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:05.298	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:05.510	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:05.510	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:05.619	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:05.619	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:05.773	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:05.773	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:06.220	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:06.220	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:06.353	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:06.354	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:06.703	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:06.703	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:06.940	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:06.940	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:07.122	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:07.122	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:07.503	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:07.503	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:07.862	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:07.862	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:08.002	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:08.002	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:08.176	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:08.177	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:10.136	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:10.136	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:10.288	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:10.288	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:11.137	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:11.137	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:11.227	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:11.227	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:11.370	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:11.370	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:11.691	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:11.691	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:11.878	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:11.878	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:12.024	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:12.024	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:12.703	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:12.703	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:13.093	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:13.093	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:22.989	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:22.989	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:23.182	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:23.183	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:24.182	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:24.182	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:24.342	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:24.342	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:24.488	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:24.488	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:25.259	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:25.259	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:31.778	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:31.778	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:33.862	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:33.862	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:38.116	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:38.116	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:38.835	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:38.835	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:39.001	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:39.002	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:39.300	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:39.300	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:39.985	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:39.985	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:43.367	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:43.367	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:43.556	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:43.556	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:45.595	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:45.595	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:45.733	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:45.733	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:45.952	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:45.952	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:46.360	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:46.360	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:46.734	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:46.734	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:46.922	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:46.922	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:47.056	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:47.056	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:47.513	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:47.513	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:47.768	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:47.768	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:48.433	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:48.433	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:52.652	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:52.652	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:53.054	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:53.054	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:53.370	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:53.370	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:53.503	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:53.503	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:54.319	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:54.319	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:54.622	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:54.622	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:54.895	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:54.895	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:55.752	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:55.752	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:56.318	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:56.318	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:56.859	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:56.859	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:57.026	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:57.026	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:57.236	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:57.236	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:01:57.371	BB Test Strat USDCAD,H1: Alert: 
+0	03:01:57.372	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:01.912	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:01.912	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:02.046	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:02.046	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:02.290	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:02.290	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:02.458	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:02.458	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:02.597	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:02.597	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:03.652	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:03.653	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:04.216	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:04.216	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:04.345	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:04.345	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:04.443	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:04.443	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:05.072	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:05.072	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:05.119	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:05.120	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:05.274	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:05.274	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:05.692	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:05.693	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:05.951	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:05.951	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:06.731	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:06.731	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:06.963	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:06.963	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:08.666	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:08.666	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:09.681	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:09.681	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:09.836	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:09.836	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:12.078	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:12.078	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:12.902	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:12.902	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:13.024	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:13.024	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:13.147	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:13.147	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:13.591	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:13.591	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:13.796	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:13.796	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:14.747	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:14.747	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:15.018	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:15.018	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:15.388	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:15.388	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:16.124	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:16.124	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:18.953	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:18.953	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:19.280	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:19.280	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:21.455	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:21.455	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:25.739	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:25.739	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:26.685	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:26.685	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:28.341	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:28.341	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:28.491	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:28.491	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:28.663	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:28.663	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:28.813	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:28.813	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:29.866	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:29.866	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:30.695	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:30.695	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:30.902	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:30.902	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:35.410	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:35.410	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:36.404	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:36.404	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:37.740	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:37.740	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:37.889	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:37.889	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:38.165	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:38.165	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:38.726	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:38.726	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:39.075	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:39.075	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:39.383	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:39.383	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:40.193	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:40.193	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:40.413	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:40.413	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:40.726	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:40.726	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:41.555	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:41.555	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:41.731	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:41.731	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:41.873	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:41.873	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:43.494	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:43.494	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:43.870	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:43.870	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:44.056	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:44.056	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:44.174	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:44.174	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:45.490	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:45.490	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:45.674	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:45.674	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:47.240	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:47.240	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:47.457	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:47.457	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:47.625	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:47.625	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:47.767	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:47.767	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:48.490	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:48.490	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:51.028	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:51.028	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:52.241	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:52.242	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:52.354	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:52.354	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:52.541	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:52.541	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:52.715	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:52.715	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:53.574	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:53.574	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:53.978	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:53.978	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:54.290	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:54.290	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:55.894	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:55.894	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:56.206	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:56.206	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:58.163	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:58.163	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:58.351	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:58.351	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:58.886	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:58.886	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:59.027	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:59.027	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:59.250	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:59.250	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:02:59.449	BB Test Strat USDCAD,H1: Alert: 
+0	03:02:59.449	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:01.687	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:01.687	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:02.273	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:02.273	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:02.426	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:02.426	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:02.942	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:02.942	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:03.062	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:03.062	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:03.605	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:03.605	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:04.128	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:04.128	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:05.729	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:05.729	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:05.879	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:05.879	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:06.170	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:06.170	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:09.021	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:09.021	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:09.371	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:09.371	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:09.513	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:09.513	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:10.222	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:10.222	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:10.423	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:10.423	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:12.273	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:12.273	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:12.406	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:12.406	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:12.550	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:12.550	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:12.725	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:12.725	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:13.243	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:13.243	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:13.440	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:13.440	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:13.556	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:13.557	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:14.351	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:14.351	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:14.859	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:14.859	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:15.387	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:15.387	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:15.729	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:15.729	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:15.868	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:15.868	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:16.242	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:16.242	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:16.448	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:16.448	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:16.655	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:16.655	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:16.840	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:16.840	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:16.950	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:16.950	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:17.157	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:17.157	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:17.439	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:17.439	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:19.079	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:19.080	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:19.208	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:19.208	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:20.217	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:20.217	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:20.405	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:20.405	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:21.897	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:21.897	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:22.068	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:22.068	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:22.346	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:22.346	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:22.624	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:22.624	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:22.830	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:22.830	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:22.951	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:22.951	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:26.671	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:26.671	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:26.915	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:26.915	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:27.292	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:27.292	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:27.779	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:27.779	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:29.627	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:29.627	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:29.776	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:29.776	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:29.916	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:29.916	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:30.568	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:30.568	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:30.620	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:30.620	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:30.841	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:30.841	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:31.615	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:31.615	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:31.965	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:31.965	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:32.295	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:32.295	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:32.445	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:32.445	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:33.336	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:33.336	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:33.552	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:33.552	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:33.955	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:33.955	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:35.212	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:35.212	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:35.447	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:35.447	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:36.302	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:36.302	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:42.665	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:42.665	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:42.821	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:42.821	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:42.986	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:42.986	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:43.665	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:43.665	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:43.789	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:43.789	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:43.974	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:43.974	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:44.170	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:44.171	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:45.796	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:45.796	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:47.260	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:47.260	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:47.877	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:47.878	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:48.341	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:48.341	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:48.732	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:48.732	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:50.507	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:50.507	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:50.730	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:50.730	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:03:59.297	BB Test Strat USDCAD,H1: Alert: 
+0	03:03:59.297	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:00.011	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:00.011	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:01.631	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:01.631	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:01.970	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:01.970	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:02.220	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:02.220	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:02.376	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:02.376	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:02.535	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:02.535	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:02.684	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:02.684	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:02.824	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:02.824	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:03.586	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:03.586	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:03.735	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:03.735	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:03.908	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:03.908	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:04.731	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:04.731	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:05.165	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:05.165	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:05.535	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:05.535	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:05.788	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:05.788	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:07.550	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:07.550	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:09.159	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:09.159	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:09.877	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:09.877	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:10.387	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:10.388	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:10.702	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:10.702	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:11.941	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:11.941	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:13.828	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:13.828	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:15.098	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:15.098	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:15.255	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:15.256	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:15.399	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:15.399	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:15.620	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:15.620	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:15.747	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:15.747	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:16.124	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:16.124	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:17.441	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:17.442	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:18.611	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:18.611	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:18.751	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:18.751	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:18.998	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:18.998	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:19.138	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:19.138	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:19.512	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:19.512	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:19.827	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:19.827	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:20.570	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:20.570	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:20.744	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:20.744	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:20.890	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:20.890	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:21.082	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:21.082	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:21.243	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:21.243	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:21.627	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:21.628	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:21.708	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:21.708	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:21.849	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:21.849	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:22.044	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:22.044	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:22.233	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:22.233	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:22.681	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:22.681	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:23.511	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:23.511	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:23.561	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:23.561	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:23.660	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:23.660	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:23.910	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:23.910	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:24.134	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:24.134	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:24.811	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:24.811	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:25.018	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:25.018	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:25.140	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:25.140	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:25.849	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:25.849	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:26.146	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:26.146	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:26.360	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:26.361	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:26.982	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:26.982	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:27.779	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:27.779	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:28.135	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:28.135	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:28.399	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:28.399	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:28.668	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:28.668	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:29.495	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:29.495	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:29.655	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:29.655	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:29.838	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:29.838	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:29.970	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:29.970	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:30.164	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:30.164	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:30.881	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:30.881	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:31.133	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:31.133	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:31.585	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:31.585	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:32.084	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:32.084	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:32.233	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:32.233	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:32.426	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:32.426	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:32.561	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:32.561	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:32.801	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:32.801	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:33.680	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:33.681	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:33.722	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:33.722	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:33.837	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:33.837	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:34.030	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:34.030	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:34.746	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:34.747	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:35.043	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:35.043	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:35.524	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:35.524	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:36.164	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:36.164	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:36.431	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:36.431	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:36.930	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:36.930	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:37.063	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:37.063	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:37.228	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:37.228	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:37.429	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:37.429	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:37.745	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:37.745	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:38.059	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:38.059	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:38.229	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:38.229	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:38.465	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:38.465	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:38.837	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:38.837	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:39.058	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:39.058	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:39.415	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:39.415	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:40.002	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:40.002	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:40.440	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:40.440	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:40.567	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:40.567	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:41.423	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:41.423	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:44.250	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:44.250	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:46.521	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:46.521	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:46.745	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:46.745	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:51.548	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:51.548	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:51.718	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:51.718	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:53.660	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:53.660	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:53.801	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:53.801	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:53.973	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:53.973	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:54.179	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:54.179	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:55.763	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:55.763	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:56.400	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:56.400	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:56.515	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:56.515	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:56.757	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:56.757	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:57.467	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:57.467	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:57.797	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:57.797	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:58.091	BB Test Strat USDCAD,H1: Alert: 
+0	03:04:58.091	BB Test Strat USDCAD,H1: Alert: 0.0
+0	03:04:59.038	BB Test Strat USDCAD,H1: uninit reason 1
+0	03:04:59.038	BB Test Strat USDCAD,H1: Alert: The EA has has closed
+0	03:04:59.048	Expert BB Test Strat USDCAD,H1: removed
+0	11:10:15.465	Custom indicator Bands USDCAD,H1: loaded successfully
+0	11:10:15.483	Custom indicator Bands USDCAD,H1: loaded successfully
+0	11:10:15.746	Bands USDCAD,H1: initialized
+0	11:10:15.768	Bands USDCAD,H1: initialized
+0	11:10:16.387	Custom indicator Bands USDCAD,H1: loaded successfully
+0	11:10:16.403	Custom indicator Bands USDCAD,H1: loaded successfully
+0	11:10:16.425	Bands USDCAD,H1: initialized
+0	11:10:16.442	Bands USDCAD,H1: initialized
+0	11:10:16.874	Custom indicator Bands USDCAD,H1: loaded successfully
+0	11:10:16.894	Custom indicator Bands USDCAD,H1: loaded successfully
+0	11:10:16.914	Bands USDCAD,H1: initialized
+0	11:10:16.931	Bands USDCAD,H1: initialized
+0	13:55:35.677	Script test EURUSD,H1: loaded successfully
+0	13:55:35.725	test EURUSD,H1: initialized
+0	13:55:35.725	test EURUSD,H1: Alert: 10000.84
+0	13:55:35.748	test EURUSD,H1: Alert: 5
+0	13:55:35.748	test EURUSD,H1: Alert: 5
+0	13:55:35.748	test EURUSD,H1: uninit reason 0
+0	13:55:35.775	Script test EURUSD,H1: removed
+0	13:57:04.846	Script test EURUSD,H1: loaded successfully
+0	13:57:04.888	test EURUSD,H1: initialized
+0	13:57:04.889	test EURUSD,H1: Alert: 10000.84
+0	13:57:04.889	test EURUSD,H1: Alert: 5
+0	13:57:04.889	test EURUSD,H1: Alert: 5
+0	13:57:04.889	test EURUSD,H1: Alert: 1e-05
+0	13:57:04.889	test EURUSD,H1: uninit reason 0
+0	13:57:04.893	Script test EURUSD,H1: removed

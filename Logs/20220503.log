@@ -1,0 +1,31 @@
+0	12:02:54.536	Compiling 'Jimmy\Moving Average\Moving Average'
+0	12:03:32.193	Script test EURUSD,H4: loaded successfully
+0	12:03:32.387	test EURUSD,H4: initialized
+0	12:03:32.409	test EURUSD,H4: Alert: 10000.84
+0	12:03:32.409	test EURUSD,H4: Alert: 5
+0	12:03:32.409	test EURUSD,H4: Alert: 5
+0	12:03:32.409	test EURUSD,H4: Alert: 1e-05
+0	12:03:32.409	test EURUSD,H4: Alert: 0.0
+0	12:03:32.409	test EURUSD,H4: uninit reason 0
+0	12:03:32.432	Script test EURUSD,H4: removed
+0	12:04:38.767	Script test EURUSD,H4: loaded successfully
+0	12:04:38.854	test EURUSD,H4: initialized
+0	12:04:38.855	test EURUSD,H4: Alert: 10000.84
+0	12:04:38.855	test EURUSD,H4: Alert: 5
+0	12:04:38.855	test EURUSD,H4: Alert: 5
+0	12:04:38.855	test EURUSD,H4: Alert: 1e-05
+0	12:04:38.867	test EURUSD,H4: Alert: The stop Level is: 0
+0	12:04:38.867	test EURUSD,H4: uninit reason 0
+0	12:04:38.872	Script test EURUSD,H4: removed
+0	14:40:45.713	Custom indicator Bands USDCAD,H1: loaded successfully
+0	14:40:45.732	Custom indicator Bands USDCAD,H1: loaded successfully
+0	14:40:45.987	Bands USDCAD,H1: initialized
+0	14:40:46.008	Bands USDCAD,H1: initialized
+0	14:40:46.541	Custom indicator Bands USDCAD,H1: loaded successfully
+0	14:40:46.555	Custom indicator Bands USDCAD,H1: loaded successfully
+0	14:40:46.574	Bands USDCAD,H1: initialized
+0	14:40:46.591	Bands USDCAD,H1: initialized
+0	14:40:46.921	Custom indicator Bands USDCAD,H1: loaded successfully
+0	14:40:46.934	Custom indicator Bands USDCAD,H1: loaded successfully
+0	14:40:46.953	Bands USDCAD,H1: initialized
+0	14:40:46.970	Bands USDCAD,H1: initialized

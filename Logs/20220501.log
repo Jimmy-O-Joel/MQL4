@@ -1,0 +1,168 @@
+0	10:34:07.097	Compiling 'tutorial'
+3	10:34:15.217	cannot open file 'C:\Users\jimmy\AppData\Roaming\MetaQuotes\Terminal\98A82F92176B73A2100FCD1F8ABD7255\MQL4\Experts\Jimmy\tutorial.ex4' [2]
+0	10:40:38.340	Custom indicator Bands USDCAD,H1: loaded successfully
+0	10:40:58.313	Bands USDCAD,H1: initialized
+0	10:41:27.259	Custom indicator Bands USDCAD,H1: loaded successfully
+0	10:41:55.696	Bands USDCAD,H1: initialized
+0	11:46:33.000	Script BBScript USDCAD,H1: loaded successfully
+0	11:46:33.014	BBScript USDCAD,H1: initialized
+0	11:46:33.014	BBScript USDCAD,H1: Alert: false
+0	11:46:33.014	BBScript USDCAD,H1: uninit reason 0
+0	11:46:33.017	Script BBScript USDCAD,H1: removed
+0	11:47:35.266	Automated trading enabled
+0	11:47:50.421	Script BBScript USDCAD,H1: loaded successfully
+0	11:47:50.435	BBScript USDCAD,H1: initialized
+0	11:47:50.435	BBScript USDCAD,H1: Alert: true
+0	11:47:50.435	BBScript USDCAD,H1: uninit reason 0
+0	11:47:50.438	Script BBScript USDCAD,H1: removed
+0	12:13:19.686	Script BBScript USDCAD,H1: loaded successfully
+0	12:13:19.700	BBScript USDCAD,H1: initialized
+0	12:13:19.700	BBScript USDCAD,H1: Alert: 100000.0
+0	12:13:19.700	BBScript USDCAD,H1: uninit reason 0
+0	12:13:19.702	Script BBScript USDCAD,H1: removed
+0	12:19:32.755	Script BBScript USDCAD,H1: loaded successfully
+0	12:19:32.770	BBScript USDCAD,H1: initialized
+0	12:19:32.771	BBScript USDCAD,H1: Alert: 100000.0
+0	12:19:32.771	BBScript USDCAD,H1: Alert: 0.01
+0	12:19:32.771	BBScript USDCAD,H1: uninit reason 0
+0	12:19:32.773	Script BBScript USDCAD,H1: removed
+0	12:39:08.341	Script BBScript USDCAD,H1: loaded successfully
+0	12:39:08.359	BBScript USDCAD,H1: initialized
+0	12:39:08.359	BBScript USDCAD,H1: uninit reason 0
+0	12:39:08.361	Script BBScript USDCAD,H1: removed
+0	12:40:07.642	Custom indicator Bands USDCAD,H1: loaded successfully
+0	12:40:19.884	Custom indicator Bands USDCAD,H1: removed
+0	12:58:09.798	Custom indicator Bands USDCAD,H1: loaded successfully
+0	12:58:09.831	Custom indicator Bands USDCAD,H1: loaded successfully
+0	12:58:09.990	Bands USDCAD,H1: initialized
+0	12:58:10.032	Bands USDCAD,H1: initialized
+0	13:13:45.614	Script BBScript USDCAD,H1: loaded successfully
+0	13:13:45.631	BBScript USDCAD,H1: initialized
+0	13:13:45.631	BBScript USDCAD,H1: Alert: 
+0	13:13:45.635	BBScript USDCAD,H1: Alert: Price is above bbUpper1, Sending short order
+0	13:13:45.635	BBScript USDCAD,H1: Alert: Entry Price = 1.28555
+0	13:13:45.635	BBScript USDCAD,H1: Alert: Stop Loss Price = 1.29311
+0	13:13:45.635	BBScript USDCAD,H1: Alert: Take Profit Price = 1.27746
+0	13:13:45.635	BBScript USDCAD,H1: uninit reason 0
+0	13:13:45.638	Script BBScript USDCAD,H1: removed
+0	13:14:41.841	Script BBScript USDCAD,H1: loaded successfully
+0	13:14:41.858	BBScript USDCAD,H1: initialized
+0	13:14:41.858	BBScript USDCAD,H1: Alert: 
+0	13:14:41.861	BBScript USDCAD,H1: Alert: Price is above bbUpper1, Sending short order
+0	13:14:41.862	BBScript USDCAD,H1: Alert: Entry Price = 1.28555
+0	13:14:41.862	BBScript USDCAD,H1: Alert: Stop Loss Price = 1.29311
+0	13:14:41.862	BBScript USDCAD,H1: Alert: Take Profit Price = 1.27746
+0	13:14:41.862	BBScript USDCAD,H1: uninit reason 0
+0	13:14:41.865	Script BBScript USDCAD,H1: removed
+0	13:15:57.877	Script BBScript USDCAD,H1: loaded successfully
+0	13:15:57.895	BBScript USDCAD,H1: initialized
+0	13:15:57.895	BBScript USDCAD,H1: Alert: 
+0	13:15:57.899	BBScript USDCAD,H1: Alert: Price is above bbUpper1, Sending short order
+0	13:15:57.899	BBScript USDCAD,H1: Alert: Entry Price = 1.28555
+0	13:15:57.899	BBScript USDCAD,H1: Alert: Stop Loss Price = 1.29311
+0	13:15:57.899	BBScript USDCAD,H1: Alert: Take Profit Price = 1.27746
+0	13:15:58.248	BBScript USDCAD,H1: OrderSend failed with error #132
+0	13:15:58.248	BBScript USDCAD,H1: uninit reason 0
+0	13:15:58.253	Script BBScript USDCAD,H1: removed
+0	13:20:14.973	Script BBScript USDCAD,H1: loaded successfully
+0	13:20:15.005	BBScript USDCAD,H1: initialized
+0	13:20:15.005	BBScript USDCAD,H1: Alert: 
+0	13:20:15.013	BBScript USDCAD,H1: Alert: Price is above bbUpper1, Sending short order
+0	13:20:15.014	BBScript USDCAD,H1: Alert: Entry Price = 1.28555
+0	13:20:15.014	BBScript USDCAD,H1: Alert: Stop Loss Price = 1.29311
+0	13:20:15.014	BBScript USDCAD,H1: Alert: Take Profit Price = 1.27746
+0	13:20:15.470	BBScript USDCAD,H1: OrderSend failed with error #132
+0	13:20:15.470	BBScript USDCAD,H1: uninit reason 0
+0	13:20:15.477	Script BBScript USDCAD,H1: removed
+0	13:20:21.372	Script BBScript USDCAD,H1: loaded successfully
+0	13:20:21.391	BBScript USDCAD,H1: initialized
+0	13:20:21.391	BBScript USDCAD,H1: Alert: 
+0	13:20:21.395	BBScript USDCAD,H1: Alert: Price is above bbUpper1, Sending short order
+0	13:20:21.395	BBScript USDCAD,H1: Alert: Entry Price = 1.28555
+0	13:20:21.395	BBScript USDCAD,H1: Alert: Stop Loss Price = 1.29311
+0	13:20:21.395	BBScript USDCAD,H1: Alert: Take Profit Price = 1.27746
+0	13:20:21.673	BBScript USDCAD,H1: OrderSend failed with error #132
+0	13:20:21.673	BBScript USDCAD,H1: uninit reason 0
+0	13:20:21.678	Script BBScript USDCAD,H1: removed
+0	14:24:15.878	Automated trading disabled
+0	14:24:25.154	Automated trading enabled
+0	14:24:30.176	Automated trading disabled
+0	14:24:31.719	Automated trading enabled
+0	14:39:12.127	Script BBScript EURUSD,H1: loaded successfully
+0	14:39:12.153	BBScript EURUSD,H1: initialized
+0	14:39:12.153	BBScript EURUSD,H1: Alert: 
+0	14:39:12.160	BBScript EURUSD,H1: uninit reason 0
+0	14:39:12.162	Script BBScript EURUSD,H1: removed
+0	14:39:15.787	Script BBScript EURUSD,H1: loaded successfully
+0	14:39:15.806	BBScript EURUSD,H1: initialized
+0	14:39:15.806	BBScript EURUSD,H1: Alert: 
+0	14:39:15.815	BBScript EURUSD,H1: uninit reason 0
+0	14:39:15.819	Script BBScript EURUSD,H1: removed
+0	14:40:15.889	Script BBScript EURUSD,H1: loaded successfully
+0	14:40:15.908	BBScript EURUSD,H1: initialized
+0	14:40:15.908	BBScript EURUSD,H1: Alert: 
+0	14:40:15.916	BBScript EURUSD,H1: uninit reason 0
+0	14:40:15.921	Script BBScript EURUSD,H1: removed
+0	14:42:32.184	Script BBScript EURUSD,H1: loaded successfully
+0	14:42:32.207	BBScript EURUSD,H1: initialized
+0	14:42:32.207	BBScript EURUSD,H1: Alert: 
+0	14:42:32.216	BBScript EURUSD,H1: uninit reason 0
+0	14:42:32.220	Script BBScript EURUSD,H1: removed
+0	14:42:36.248	Script BBScript EURUSD,H1: loaded successfully
+0	14:42:36.269	BBScript EURUSD,H1: initialized
+0	14:42:36.269	BBScript EURUSD,H1: Alert: 
+0	14:42:36.278	BBScript EURUSD,H1: uninit reason 0
+0	14:42:36.282	Script BBScript EURUSD,H1: removed
+0	14:44:39.483	Script BBScript USDCAD,H1: loaded successfully
+0	14:44:39.502	BBScript USDCAD,H1: initialized
+0	14:44:39.502	BBScript USDCAD,H1: Alert: 
+0	14:44:39.510	BBScript USDCAD,H1: Alert: Price is above bbUpper1, Sending short order
+0	14:44:39.510	BBScript USDCAD,H1: Alert: Entry Price = 1.28555
+0	14:44:39.510	BBScript USDCAD,H1: Alert: Stop Loss Price = 1.29287
+0	14:44:39.510	BBScript USDCAD,H1: Alert: Take Profit Price = 1.27753
+0	14:44:39.797	BBScript USDCAD,H1: OrderSend failed with error #132
+0	14:44:39.797	BBScript USDCAD,H1: uninit reason 0
+0	14:44:39.802	Script BBScript USDCAD,H1: removed
+0	14:48:03.110	Script BBScript USDCAD,H1: loaded successfully
+0	14:48:03.151	BBScript USDCAD,H1: initialized
+0	14:48:03.151	BBScript USDCAD,H1: Alert: 
+0	14:48:03.159	BBScript USDCAD,H1: Alert: Price is above bbUpper1, Sending short order
+0	14:48:03.159	BBScript USDCAD,H1: Alert: Entry Price = 1.28555
+0	14:48:03.159	BBScript USDCAD,H1: Alert: Stop Loss Price = 1.29287
+0	14:48:03.159	BBScript USDCAD,H1: Alert: Take Profit Price = 1.27753
+0	14:48:03.451	BBScript USDCAD,H1: OrderSend failed with error #market is closed
+0	14:48:03.451	BBScript USDCAD,H1: uninit reason 0
+0	14:48:03.465	Script BBScript USDCAD,H1: removed
+0	14:49:01.609	Script BBScript USDCAD,H1: loaded successfully
+0	14:49:01.650	BBScript USDCAD,H1: initialized
+0	14:49:01.650	BBScript USDCAD,H1: Alert: 
+0	14:49:01.658	BBScript USDCAD,H1: Alert: Price is above bbUpper1, Sending short order
+0	14:49:01.658	BBScript USDCAD,H1: Alert: Entry Price = 1.28555
+0	14:49:01.658	BBScript USDCAD,H1: Alert: Stop Loss Price = 1.29287
+0	14:49:01.658	BBScript USDCAD,H1: Alert: Take Profit Price = 1.27753
+0	14:49:01.944	BBScript USDCAD,H1: OrderSend failed because market is closed
+0	14:49:01.944	BBScript USDCAD,H1: uninit reason 0
+0	14:49:01.958	Script BBScript USDCAD,H1: removed
+0	15:02:08.472	Script BBScript USDCAD,H1: loaded successfully
+0	15:02:08.511	BBScript USDCAD,H1: initialized
+0	15:02:08.511	BBScript USDCAD,H1: Alert: 
+0	15:02:08.511	BBScript USDCAD,H1: Alert: 0.0
+0	15:02:08.520	BBScript USDCAD,H1: Alert: Price is above bbUpper1, Sending short order
+0	15:02:08.520	BBScript USDCAD,H1: Alert: Entry Price = 1.28555
+0	15:02:08.520	BBScript USDCAD,H1: Alert: Stop Loss Price = 1.29287
+0	15:02:08.520	BBScript USDCAD,H1: Alert: Take Profit Price = 1.27753
+0	15:02:08.811	BBScript USDCAD,H1: OrderSend failed because market is closed
+0	15:02:08.811	BBScript USDCAD,H1: uninit reason 0
+0	15:02:08.826	Script BBScript USDCAD,H1: removed
+0	15:02:45.502	Script BBScript USDCAD,H1: loaded successfully
+0	15:02:45.542	BBScript USDCAD,H1: initialized
+0	15:02:45.542	BBScript USDCAD,H1: Alert: 
+0	15:02:45.542	BBScript USDCAD,H1: Alert: 0.0
+0	15:02:45.551	BBScript USDCAD,H1: Alert: Price is above bbUpper1, Sending short order
+0	15:02:45.551	BBScript USDCAD,H1: Alert: Entry Price = 1.28555
+0	15:02:45.551	BBScript USDCAD,H1: Alert: Stop Loss Price = 1.29287
+0	15:02:45.551	BBScript USDCAD,H1: Alert: Take Profit Price = 1.27753
+0	15:02:45.843	BBScript USDCAD,H1: OrderSend failed because market is closed
+0	15:02:45.843	BBScript USDCAD,H1: uninit reason 0
+0	15:02:45.859	Script BBScript USDCAD,H1: removed
+0	19:36:43.090	Compiling 'CustomFunctions'
