@@ -89,7 +89,7 @@ void    OnTick()
                             
                             double BuyStopLoss = CalculateStopLoss(OP_BUY, OpenPrice, StopLoss, PipPoint(Symbol()));
                             
-                            if  (BuyStopLoss > 0)
+                            if  (BuyStopLoss > 0 && !VerifyLowerStopLevel(BuyStopLoss))
                                 {
                                     BuyStopLoss = AdjustBelowStopLevel(BuyStopLoss, PipPoint(Symbol()), StopLevelPips);
                                     
@@ -97,7 +97,7 @@ void    OnTick()
                                 
                             double BuyTakeProfit = CalculateTakeProfit(OP_BUY, OpenPrice, TakeProfit, PipPoint(Symbol()));
                             
-                            if  (BuyTakeProfit > 0)
+                            if  (BuyTakeProfit > 0 && !VerifyUpperStopLevel(BuyTakeProfit))
                                 {
                                     BuyTakeProfit = AjustAboveStopLevel(BuyTakeProfit, PipPoint(Symbol()), StopLevelPips);
                                     
@@ -123,14 +123,14 @@ void    OnTick()
                             
                             double SellStopLoss = CalculateStopLoss(OP_SELL, OpenPrice, StopLoss, PipPoint(Symbol()));
                             
-                            if  (SellStopLoss > 0)
+                            if  (SellStopLoss > 0 && !VerifyUpperStopLevel(SellStopLoss))
                                 {
                                     SellStopLoss = AjustAboveStopLevel(SellStopLoss, PipPoint(Symbol()), StopLevelPips);
                                     
                                 }
                             double SellTakeProfit = CalculateTakeProfit(OP_SELL, OpenPrice, TakeProfit, PipPoint(Symbol()));
                             
-                            if  (SellTakeProfit > 0)
+                            if  (SellTakeProfit > 0 && !VerifyLowerStopLevel(SellTakeProfit))
                                 {
                                     SellTakeProfit = AdjustBelowStopLevel(SellTakeProfit, PipPoint(Symbol()), StopLevelPips);
                                 
@@ -403,4 +403,41 @@ int     OpenSellOrder(string argSymbol, double argLotSize, int argSlippage, int 
                 }
             return Ticket;
         }
+//+------------------------------------------------------------------+
+bool    VerifyLowerStopLevel(double argVerifyPrice, double argOpenPrice = 0)
+    {
+        double StopLevel = MarketInfo(Symbol(), MODE_STOPLEVEL) * Point;
+        
+        double OpenPrice;
+        if (argOpenPrice == 0) OpenPrice = MarketInfo(Symbol(), MODE_BID);
+        else OpenPrice = argOpenPrice;
+        
+        double LowerStopLevel = OpenPrice - StopLevel;
+        
+        bool StopVerify;
+        if (argVerifyPrice < LowerStopLevel) StopVerify = true;
+        else StopVerify = false;
+        
+        return StopVerify;
+    }
+//+------------------------------------------------------------------+
+bool    VerifyUpperStopLevel(double argVerifyPrice, double argOpenPrice = 0) 
+    {
+        double StopLevel = MarketInfo(Symbol(), MODE_STOPLEVEL) * Point;
+        
+        double OpenPrice;
+        
+        if (argOpenPrice == 0) OpenPrice = MarketInfo(Symbol(), MODE_ASK);
+        else OpenPrice = argOpenPrice; //Use this when verifying stoploss and take profit prices for pending orders
+        
+        double UpperStopLevel = OpenPrice + StopLevel;
+        
+        bool StopVerify;
+        
+        if (argVerifyPrice > UpperStopLevel) StopVerify = true;
+        else StopVerify = false;
+        
+        return StopVerify; 
+        
+    }
 //+------------------------------------------------------------------+
