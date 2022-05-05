@@ -11,7 +11,7 @@
 //+------------------------------------------------------------------+
 //| My function                                                      |
 //+------------------------------------------------------------------+
-double  pipPoint(const string currSymbol)
+double  PipPoint(const string currSymbol)
         {
                 double bid = SymbolInfoDouble(currSymbol, SYMBOL_BID);
                 int digits = (int)SymbolInfoInteger(currSymbol, SYMBOL_DIGITS);

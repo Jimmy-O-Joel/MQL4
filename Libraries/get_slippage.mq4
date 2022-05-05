@@ -1,5 +1,5 @@
 //+------------------------------------------------------------------+
-//|                                          calculate_stop_loss.mq4 |
+//|                                                 get_slippage.mq4 |
 //|                                                       Jimmy Joel |
 //|                                             https://www.mql5.com |
 //+------------------------------------------------------------------+
@@ -11,17 +11,13 @@
 //+------------------------------------------------------------------+
 //| My function                                                      |
 //+------------------------------------------------------------------+
-double CalculateStopLoss(int argOrderType, double entryPrice, int argStopLoss, double argPipPoint)
-{
-   double stopLoss = 0;
-   if(argOrderType == OP_BUY || argOrderType == OP_BUYLIMIT || argOrderType == OP_BUYSTOP)
-   {
-      stopLoss = entryPrice - argStopLoss * argPipPoint;
-   }
-   else if (argOrderType == OP_SELL || argOrderType == OP_SELLLIMIT || argOrderType == OP_SELLSTOP)
-   {
-      stopLoss = entryPrice + argStopLoss * argPipPoint;
-   }
-   return NormalizeDouble(stopLoss, Digits);
-}
+int     GetSlippage(string curr, int SlippagePips)
+        {
+            int CalcDigits = (int)MarketInfo(curr, MODE_DIGITS);
+            
+            int CalcSlippage = NULL;
+            if  (CalcDigits == 2 || CalcDigits == 4) CalcSlippage = SlippagePips;
+            else if (CalcDigits == 3 || CalcDigits == 5) CalcSlippage = SlippagePips * 10;
+            return CalcSlippage;
+        }
 //+------------------------------------------------------------------+

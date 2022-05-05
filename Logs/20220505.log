@@ -1,0 +1,54 @@
+0	14:23:08.637	Compiling 'Jimmy\Andrew Young\Simple MA strategy'
+0	14:38:34.848	Compiling 'Jimmy\Andrew Young\Simple MA strategy'
+0	14:42:10.688	Compiling 'Jimmy\Andrew Young\Simple MA strategy'
+0	14:42:13.227	Simple MA strategy USDCAD,H1: uninit reason 2
+0	14:42:13.271	Expert Simple MA strategy USDCAD,H1: removed
+0	14:42:13.372	Expert Jimmy\Andrew Young\Simple MA strategy USDCAD,H1: loaded successfully
+0	14:42:13.573	Simple MA strategy USDCAD,H1: initialized
+0	15:11:23.180	Compiling 'Jimmy\Andrew Young\Simple MA strategy'
+0	15:17:54.894	Compiling 'Jimmy\Andrew Young\Simple MA strategy'
+0	15:38:10.471	Simple MA strategy USDCAD,H1: uninit reason 2
+0	15:38:10.478	Expert Simple MA strategy USDCAD,H1: removed
+0	15:38:10.520	Expert Jimmy\Andrew Young\Simple MA strategy USDCAD,H1: loaded successfully
+0	15:38:10.661	Simple MA strategy USDCAD,H1: initialized
+0	15:39:11.175	Simple MA strategy USDCAD,H1: uninit reason 2
+0	15:39:11.182	Expert Simple MA strategy USDCAD,H1: removed
+0	15:39:11.215	Expert Jimmy\Andrew Young\Simple MA strategy USDCAD,H1: loaded successfully
+0	15:39:11.302	Simple MA strategy USDCAD,H1: initialized
+0	15:39:55.097	Simple MA strategy USDCAD,H1: uninit reason 2
+0	15:39:55.102	Expert Simple MA strategy USDCAD,H1: removed
+0	15:39:55.129	Expert Jimmy\Andrew Young\Simple MA strategy USDCAD,H1: loaded successfully
+0	15:39:55.186	Simple MA strategy USDCAD,H1: initialized
+0	15:55:43.885	Simple MA strategy USDCAD,H1: uninit reason 2
+0	15:55:43.890	Expert Simple MA strategy USDCAD,H1: removed
+0	15:55:43.958	Expert Jimmy\Andrew Young\Simple MA strategy USDCAD,H1: loaded successfully
+0	15:55:44.034	Simple MA strategy USDCAD,H1: initialized
+0	16:48:11.796	Custom indicator Bands USDCAD,H1: loaded successfully
+0	16:48:11.813	Custom indicator Bands USDCAD,H1: loaded successfully
+0	16:48:11.986	Bands USDCAD,H1: initialized
+0	16:48:12.027	Bands USDCAD,H1: initialized
+0	16:48:12.673	Custom indicator Bands USDCAD,H1: loaded successfully
+0	16:48:12.692	Custom indicator Bands USDCAD,H1: loaded successfully
+0	16:48:12.716	Bands USDCAD,H1: initialized
+0	16:48:12.736	Bands USDCAD,H1: initialized
+0	16:48:13.107	Custom indicator Bands USDCAD,H1: loaded successfully
+0	16:48:13.124	Custom indicator Bands USDCAD,H1: loaded successfully
+0	16:48:13.155	Expert Jimmy\Andrew Young\Simple MA strategy USDCAD,H1: loaded successfully
+0	16:48:13.155	Simple MA strategy USDCAD,H1 inputs: HINT_01==================================; DynamicLotSize=true; EquityPercent=2.0; FixedLotSize=0.1; StopLoss=50; TakeProfit=100; Slippage=5; MagicNumber=2222; HINT_02===================================; FastMAPeriod=10; SlowMAPeriod=20; StopLevelPips=5; 
+0	16:48:13.179	Bands USDCAD,H1: initialized
+0	16:48:13.199	Bands USDCAD,H1: initialized
+0	16:48:20.792	Simple MA strategy USDCAD,H1: initialized
+2	16:48:35.051	Simple MA strategy USDCAD,H1: open #229098733 buy 0.51 USDCAD at 1.27826 ok
+2	16:48:35.389	Simple MA strategy USDCAD,H1: modify #229098733 buy 0.51 USDCAD at 1.27826 sl: 1.27326 tp: 1.28826 ok
+0	16:48:52.888	Simple MA strategy USDCAD,H1: uninit reason 2
+0	16:48:52.895	Expert Simple MA strategy USDCAD,H1: removed
+0	16:48:52.925	Expert Jimmy\Andrew Young\Simple MA strategy USDCAD,H1: loaded successfully
+0	16:48:52.995	Simple MA strategy USDCAD,H1: initialized
+2	16:48:53.422	Simple MA strategy USDCAD,H1: open #229099016 buy 0.51 USDCAD at 1.27815 ok
+2	16:48:53.832	Simple MA strategy USDCAD,H1: modify #229099016 buy 0.51 USDCAD at 1.27815 sl: 1.27315 tp: 1.28815 ok
+0	16:59:51.639	Simple MA strategy USDCAD,H1: uninit reason 2
+0	16:59:51.669	Expert Simple MA strategy USDCAD,H1: removed
+0	16:59:51.878	Expert Jimmy\Andrew Young\Simple MA strategy USDCAD,H1: loaded successfully
+0	16:59:52.047	Simple MA strategy USDCAD,H1: initialized
+2	16:59:52.578	Simple MA strategy USDCAD,H1: open #229108194 buy 0.51 USDCAD at 1.27808 ok
+2	16:59:52.915	Simple MA strategy USDCAD,H1: modify #229108194 buy 0.51 USDCAD at 1.27808 sl: 1.27308 tp: 1.28808 ok
