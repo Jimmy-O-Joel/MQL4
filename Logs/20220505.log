@@ -52,3 +52,47 @@
 0	16:59:52.047	Simple MA strategy USDCAD,H1: initialized
 2	16:59:52.578	Simple MA strategy USDCAD,H1: open #229108194 buy 0.51 USDCAD at 1.27808 ok
 2	16:59:52.915	Simple MA strategy USDCAD,H1: modify #229108194 buy 0.51 USDCAD at 1.27808 sl: 1.27308 tp: 1.28808 ok
+0	20:18:09.321	Custom indicator Bands USDCAD,H1: loaded successfully
+0	20:18:09.336	Custom indicator Bands USDCAD,H1: loaded successfully
+0	20:18:09.587	Bands USDCAD,H1: initialized
+0	20:18:09.607	Bands USDCAD,H1: initialized
+0	20:18:10.323	Custom indicator Bands USDCAD,H1: loaded successfully
+0	20:18:10.348	Custom indicator Bands USDCAD,H1: loaded successfully
+0	20:18:10.378	Bands USDCAD,H1: initialized
+0	20:18:10.395	Bands USDCAD,H1: initialized
+0	20:18:10.865	Custom indicator Bands USDCAD,H1: loaded successfully
+0	20:18:10.898	Custom indicator Bands USDCAD,H1: loaded successfully
+0	20:18:10.947	Expert Jimmy\Andrew Young\Simple MA strategy USDCAD,H1: loaded successfully
+0	20:18:10.947	Simple MA strategy USDCAD,H1 inputs: HINT_01==================================; DynamicLotSize=true; EquityPercent=2.0; FixedLotSize=0.1; StopLoss=50; TakeProfit=100; Slippage=5; MagicNumber=2222; HINT_02===================================; FastMAPeriod=10; SlowMAPeriod=20; StopLevelPips=5; 
+0	20:18:10.967	Bands USDCAD,H1: initialized
+0	20:18:10.985	Bands USDCAD,H1: initialized
+0	20:18:19.636	Simple MA strategy USDCAD,H1: initialized
+2	20:18:20.623	Simple MA strategy USDCAD,H1: open #229270643 buy 0.56 USDCAD at 1.28425 ok
+2	20:18:20.972	Simple MA strategy USDCAD,H1: modify #229270643 buy 0.56 USDCAD at 1.28425 sl: 1.27925 tp: 1.29425 ok
+0	23:37:14.406	Custom indicator Bands USDCAD,H1: loaded successfully
+0	23:37:14.427	Custom indicator Bands USDCAD,H1: loaded successfully
+0	23:37:14.648	Bands USDCAD,H1: initialized
+0	23:37:14.671	Bands USDCAD,H1: initialized
+0	23:37:15.542	Custom indicator Bands USDCAD,H1: loaded successfully
+0	23:37:15.565	Custom indicator Bands USDCAD,H1: loaded successfully
+0	23:37:15.588	Bands USDCAD,H1: initialized
+0	23:37:15.606	Bands USDCAD,H1: initialized
+0	23:37:15.959	Custom indicator Bands USDCAD,H1: loaded successfully
+0	23:37:15.973	Custom indicator Bands USDCAD,H1: loaded successfully
+0	23:37:16.000	Expert Jimmy\Andrew Young\Simple MA strategy USDCAD,H1: loaded successfully
+0	23:37:16.000	Simple MA strategy USDCAD,H1 inputs: HINT_01==================================; DynamicLotSize=true; EquityPercent=2.0; FixedLotSize=0.1; StopLoss=50; TakeProfit=100; Slippage=5; MagicNumber=2222; HINT_02===================================; FastMAPeriod=10; SlowMAPeriod=20; StopLevelPips=5; 
+0	23:37:16.019	Bands USDCAD,H1: initialized
+0	23:37:16.036	Bands USDCAD,H1: initialized
+0	23:39:56.982	Simple MA strategy USDCAD,H1: initialized
+2	23:39:58.652	Simple MA strategy USDCAD,H1: open #229389823 buy 0.56 USDCAD at 1.28371 ok
+2	23:39:58.958	Simple MA strategy USDCAD,H1: modify #229389823 buy 0.56 USDCAD at 1.28371 sl: 1.27871 tp: 1.29371 ok
+0	23:40:23.779	Simple MA strategy USDCAD,H1: uninit reason 1
+0	23:40:23.791	Expert Simple MA strategy USDCAD,H1: removed
+0	23:40:32.845	Bands USDCAD,H1: uninit reason 4
+0	23:40:32.845	Bands USDCAD,H1: uninit reason 4
+0	23:40:32.849	Custom indicator Bands USDCAD,H1: removed
+0	23:40:32.852	Custom indicator Bands USDCAD,H1: removed
+0	23:40:43.109	Bands USDCAD,H1: uninit reason 4
+0	23:40:43.109	Bands USDCAD,H1: uninit reason 4
+0	23:40:43.115	Custom indicator Bands USDCAD,H1: removed
+0	23:40:43.119	Custom indicator Bands USDCAD,H1: removed
