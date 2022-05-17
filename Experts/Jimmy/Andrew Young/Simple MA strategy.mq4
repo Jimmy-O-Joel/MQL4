@@ -22,6 +22,11 @@ input   int         StopLoss            = 100;                                 /
 input   int         TakeProfit          = 50;                                //Take Profit
 input   int         Slippage            = 5;                                  //Slippage
 input   int         MagicNumber         = 2222;                               //Magic Number
+input   int         TrailingStop        = 50;                                  //Trailing stop
+input   int         MinProfit           = 20;                                 //Minimum Profit
+input   string      StartTradingTime    = "08:00";                             //Start Trading Time
+input   string      StopTradingTime     = "22:00";                             // StopTradingTime
+input   int         BreakEvenProfit     = 20;
 
 sinput  string      HINT_02             = "==================================";//Moving Average periods
 input   int         FastMAPeriod        = 10;                                  //FastMA Period
@@ -36,6 +41,8 @@ int       SellTicket;
 double    UsePoint;
 int       UseSlippage;
 datetime LastActionTime = 0;
+string  CurrentTime;
+bool    TradingIsAllowed    =   false;
 
 
 int     OnInit()
@@ -58,6 +65,14 @@ void OnDeinit(const int reason)
 //+------------------------------------------------------------------+
 void    OnTick()
         {
+            //calculate the local time
+            datetime time = TimeLocal();
+            Print(time);
+            
+            //convert local time to a formatted string
+            CurrentTime = TimeToString(time,TIME_MINUTES);
+            Print(CurrentTime);
+            
             //Moving Average
             double FastMA = iMA(Symbol(), 0, FastMAPeriod, 0, MODE_SMA, PRICE_CLOSE, 0);
             double SlowMA = iMA(Symbol(), 0, SlowMAPeriod, 0, MODE_SMA, PRICE_CLOSE, 0);
@@ -68,46 +83,53 @@ void    OnTick()
             LotSize = VerifyLotSize(LotSize);
      
             
-            // Buy Order
+            
             if  (LastActionTime != Time[0]) // condition to execute code once per bar
                 {
-                   if (FastMA > SlowMA && BuyTicket == 0) 
-                {
-                    if (SellTicket > 0) bool Closed = CloseSellOrder(Symbol(), SellTicket, UseSlippage);
-                    SellTicket = 0;
-                    
-                    BuyTicket = OpenBuyOrder(Symbol(), LotSize, UseSlippage, MagicNumber);
-                    
-                    if  (BuyTicket > 0 && (StopLoss > 0 || TakeProfit > 0))
+                    // Buy Order
+                   if (FastMA > SlowMA && BuyTicket == 0 && CheckTradingTime()) 
                         {
-                            if  (!OrderSelect(BuyTicket, SELECT_BY_TICKET))
+                            if (SellTicket > 0) bool Closed = CloseSellOrder(Symbol(), SellTicket, UseSlippage);
+                            SellTicket = 0;
+                            
+                            BuyTicket = OpenBuyOrder(Symbol(), LotSize, UseSlippage, MagicNumber);
+                            
+                            if  (BuyTicket > 0 && (StopLoss > 0 || TakeProfit > 0))
                                 {
-                                    Print("Order Select Error #" + IntegerToString(GetLastError()) + ": " + ErrorDescription(GetLastError()));
+                                    if  (!OrderSelect(BuyTicket, SELECT_BY_TICKET))
+                                        {
+                                            Print("Order Select Error #" + IntegerToString(GetLastError()) + ": " + ErrorDescription(GetLastError()));
+                                            
+                                        }
+                                    double OpenPrice = OrderOpenPrice();
+                                    
+                                    double BuyStopLoss = CalculateStopLoss(OP_BUY, OpenPrice, StopLoss, PipPoint(Symbol()));
+                                    
+                                    if  (BuyStopLoss > 0 && !VerifyLowerStopLevel(BuyStopLoss))
+                                        {
+                                            BuyStopLoss = AdjustBelowStopLevel(BuyStopLoss, PipPoint(Symbol()), StopLevelPips);
+                                            
+                                        }
+                                        
+                                    double BuyTakeProfit = CalculateTakeProfit(OP_BUY, OpenPrice, TakeProfit, PipPoint(Symbol()));
+                                    
+                                    if  (BuyTakeProfit > 0 && !VerifyUpperStopLevel(BuyTakeProfit))
+                                        {
+                                            BuyTakeProfit = AjustAboveStopLevel(BuyTakeProfit, PipPoint(Symbol()), StopLevelPips);
+                                            
+                                        }
+                                    AddStopProfit(BuyTicket, BuyStopLoss, BuyTakeProfit);
+                                    
+                                    BuyTrailingStop(Symbol(), TrailingStop, MinProfit, MagicNumber, UsePoint);
+                                    
+                                    BuyBreakEvenStop(Symbol(), UsePoint, MagicNumber, BreakEvenProfit);
+                                    
+                                    
                                     
                                 }
-                            double OpenPrice = OrderOpenPrice();
-                            
-                            double BuyStopLoss = CalculateStopLoss(OP_BUY, OpenPrice, StopLoss, PipPoint(Symbol()));
-                            
-                            if  (BuyStopLoss > 0 && !VerifyLowerStopLevel(BuyStopLoss))
-                                {
-                                    BuyStopLoss = AdjustBelowStopLevel(BuyStopLoss, PipPoint(Symbol()), StopLevelPips);
-                                    
-                                }
-                                
-                            double BuyTakeProfit = CalculateTakeProfit(OP_BUY, OpenPrice, TakeProfit, PipPoint(Symbol()));
-                            
-                            if  (BuyTakeProfit > 0 && !VerifyUpperStopLevel(BuyTakeProfit))
-                                {
-                                    BuyTakeProfit = AjustAboveStopLevel(BuyTakeProfit, PipPoint(Symbol()), StopLevelPips);
-                                    
-                                }
-                            AddStopProfit(BuyTicket, BuyStopLoss, BuyTakeProfit);
-                            
                         }
-                }
             //Sell Order
-            if  (FastMA < SlowMA && SellTicket == 0)
+            if  (FastMA < SlowMA && SellTicket == 0 && CheckTradingTime())
                 {
                     if  (BuyTicket > 0) bool closed = CloseBuyOrder(Symbol(), BuyTicket, UseSlippage);
                     
@@ -135,12 +157,26 @@ void    OnTick()
                                     SellTakeProfit = AdjustBelowStopLevel(SellTakeProfit, PipPoint(Symbol()), StopLevelPips);
                                 
                                 }
-                            AddStopProfit(SellTicket, SellStopLoss, SellTakeProfit);   
+                            AddStopProfit(SellTicket, SellStopLoss, SellTakeProfit); 
+                            
+                            SellTrailingStop(Symbol(), TrailingStop, MinProfit, MagicNumber, UsePoint);
+                
+                            SellBreakEvenStop(Symbol(), UsePoint, MagicNumber, BreakEvenProfit);  
                         }
                 }
                 
                 LastActionTime = Time[0]; 
+                
+                Comment(
+                        "TradingIsAllowed = ", CheckTradingTime(), "\n",
+                        "Current Time = ", CurrentTime, "\n",
+                        "Start Trading Time = ", StartTradingTime, "\n",
+                        "Stop Trading Time = ", StopTradingTime
                     
+                    );
+                
+                
+                                    
                 }
             
             
@@ -440,4 +476,140 @@ bool    VerifyUpperStopLevel(double argVerifyPrice, double argOpenPrice = 0)
         return StopVerify; 
         
     }
+//+------------------------------------------------------------------+
+bool    CheckTradingTime()
+        {
+            if  (StringSubstr(CurrentTime, 0, 5) == StartTradingTime)
+                {
+                    TradingIsAllowed = true;
+                }
+            if  (StringSubstr(CurrentTime, 0, 5) == StopTradingTime) TradingIsAllowed = false;
+            
+            return TradingIsAllowed; 
+            
+            
+            
+        }
+//+------------------------------------------------------------------+
+void    BuyTrailingStop(string argSymbol, int argTrailingStop, int argMinProfit, int argMagicNumber, double argPipPoint)
+        {
+            for (int i = 0; i < OrdersTotal(); i++)
+                {
+                    if  (!OrderSelect(i, SELECT_BY_POS))
+                        {
+                            Print("Order Select Error #" + IntegerToString(GetLastError()) + ": " + ErrorDescription(GetLastError()));
+                        }
+                    //Calculate Max Stop and Min Profit
+                    
+                    double MaxStopLoss = MarketInfo(argSymbol, MODE_BID) - (argTrailingStop * argPipPoint);
+                    
+                    MaxStopLoss = NormalizeDouble(MaxStopLoss, (int)MarketInfo(argSymbol, MODE_DIGITS));
+                    
+                    double CurrStop = NormalizeDouble(OrderStopLoss(), (int)MarketInfo(OrderSymbol(), MODE_DIGITS));
+                    
+                    double PipsProfit = MarketInfo(argSymbol, MODE_BID) - OrderOpenPrice();
+                    double MinimProfit = argMinProfit * argPipPoint;
+                    
+                    //Modify Stop
+                    
+                    if  (OrderMagicNumber() == argMagicNumber && OrderSymbol() == argSymbol && OrderType() == OP_BUY && CurrStop < MaxStopLoss && PipsProfit >= MinimProfit)
+                        {
+                            bool Trailed = OrderModify(OrderTicket(), OrderOpenPrice(), MaxStopLoss, OrderTakeProfit(), 0);
+                            
+                            if  (!Trailed)
+                                {
+                                    Print("Buy Trailing Stop - Error #" + IntegerToString(GetLastError()) + ": " + ErrorDescription(GetLastError()));
+                                    Print("Bid: " + DoubleToString(MarketInfo(argSymbol, MODE_BID)) + " Ticket: " + IntegerToString(OrderTicket()) + " Stop: " + DoubleToString(OrderStopLoss()) + " Trail: " + DoubleToString(MaxStopLoss));
+                                }
+                        }
+                }
+        }
+//+------------------------------------------------------------------+
+void    SellTrailingStop(string argSymbol, int argTrailingStop, int argMinProfit, int argMagicNumber, double argPipPoint)
+        {
+            for (int i = 0; i < OrdersTotal(); i++)
+                {
+                    if  (!OrderSelect(i, SELECT_BY_POS))
+                        {
+                            Print("Order Select Error #" + IntegerToString(GetLastError()) + ": " + ErrorDescription(GetLastError()));
+                        }
+                    //Calculate Max Stop and Min Profit
+                    
+                    double MaxStopLoss = MarketInfo(argSymbol, MODE_ASK) + (argTrailingStop * argPipPoint);
+                    
+                    MaxStopLoss = NormalizeDouble(MaxStopLoss, (int)MarketInfo(argSymbol, MODE_DIGITS));
+                    
+                    double CurrStop = NormalizeDouble(OrderStopLoss(), (int)MarketInfo(OrderSymbol(), MODE_DIGITS));
+                    
+                    double PipsProfit = OrderOpenPrice() + MarketInfo(argSymbol, MODE_ASK);
+                    double MinimProfit = argMinProfit * argPipPoint;
+                    
+                    //Modify Stop
+                    
+                    if  (OrderMagicNumber() == argMagicNumber && OrderSymbol() == argSymbol && OrderType() == OP_SELL && (CurrStop > MaxStopLoss || CurrStop == 0 ) && PipsProfit >= MinimProfit)
+                        {
+                            bool Trailed = OrderModify(OrderTicket(), OrderOpenPrice(), MaxStopLoss, OrderTakeProfit(), 0);
+                            
+                            if  (!Trailed)
+                                {
+                                    Print("Sell Trailing Stop - Error #" + IntegerToString(GetLastError()) + ": " + ErrorDescription(GetLastError()));
+                                    Print("Bid: " + DoubleToString(MarketInfo(argSymbol, MODE_BID)) + " Ticket: " + IntegerToString(OrderTicket()) + " Stop: " + DoubleToString(OrderStopLoss()) + " Trail: " + DoubleToString(MaxStopLoss));
+                                }
+                        }
+                }
+        }
+//+------------------------------------------------------------------+
+void    BuyBreakEvenStop(string argSymbol, double argPipPoint, int argMagicNumber, int argBreakEvenProfit)
+        {
+            for (int i = 0; i < OrdersTotal(); i++)
+                {
+                    if  (!OrderSelect(i, SELECT_BY_POS))
+                        {
+                            Print("Order Select Error #" + IntegerToString(GetLastError()) + ": " + ErrorDescription(GetLastError()));
+                        }
+                        
+                    RefreshRates();
+                    
+                    double PipsProfit = MarketInfo(argSymbol, MODE_BID) - OrderOpenPrice();
+                    double MinimProfit = argBreakEvenProfit * argPipPoint;
+                    
+                    if  (OrderMagicNumber() == argMagicNumber && OrderSymbol() == argSymbol && OrderType() == OP_BUY && PipsProfit >= MinimProfit && OrderOpenPrice() != OrderStopLoss())
+                        {
+                            bool BreakEven = OrderModify(OrderTicket(), OrderOpenPrice(), OrderOpenPrice(), OrderTakeProfit(), 0, clrRed);
+                            
+                            if  (!BreakEven)
+                                {
+                                    Print("Buy Break Even - Error " + IntegerToString(GetLastError()) + ": " + ErrorDescription(GetLastError()));
+                                    Print("Bid: ", Bid, ", Ask: ", Ask, ", Stop: ", OrderStopLoss(), ", Break: ", MinProfit);
+                                }
+                        }
+                }
+        }
+//+------------------------------------------------------------------+
+void    SellBreakEvenStop(string argSymbol, double argPipPoint, int argMagicNumber, int argBreakEvenProfit)
+        {
+            for (int i = 0; i < OrdersTotal(); i++)
+                {
+                    if  (!OrderSelect(i, SELECT_BY_POS))
+                        {
+                            Print("Order Select Error #" + IntegerToString(GetLastError()) + ": " + ErrorDescription(GetLastError()));
+                        }
+                        
+                    RefreshRates();
+                    
+                    double PipsProfit = OrderOpenPrice() - MarketInfo(argSymbol, MODE_ASK);
+                    double MinimProfit = argBreakEvenProfit * argPipPoint;
+                    
+                    if  (OrderMagicNumber() == argMagicNumber && OrderSymbol() == argSymbol && OrderType() == OP_SELL && PipsProfit >= MinimProfit && OrderOpenPrice() != OrderStopLoss())
+                        {
+                            bool BreakEven = OrderModify(OrderTicket(), OrderOpenPrice(), OrderOpenPrice(), OrderTakeProfit(), 0, clrRed);
+                            
+                            if  (!BreakEven)
+                                {
+                                    Print("Sell Break Even - Error " + IntegerToString(GetLastError()) + ": " + ErrorDescription(GetLastError()));
+                                    Print("Bid: ", Bid, ", Ask: ", Ask, ", Stop: ", OrderStopLoss(), ", Break: ", MinProfit);
+                                }
+                        }
+                }
+        }
 //+------------------------------------------------------------------+

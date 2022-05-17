@@ -1,0 +1,23 @@
+0	01:53:11.807	Custom indicator Bands USDCAD,H1: loaded successfully
+0	01:53:11.839	Custom indicator Bands USDCAD,H1: loaded successfully
+0	01:53:11.862	Bands USDCAD,H1: initialized
+0	01:53:11.880	Bands USDCAD,H1: initialized
+0	12:29:57.327	Compiling 'Jimmy\Trade on datetime\date time trade'
+0	13:42:08.219	Expert Jimmy\Trade on datetime\date time trade USDCHF,H1: loaded successfully
+0	13:42:25.271	date time trade USDCHF,H1 inputs: StartTradingTime=08:00; StopTradingTime=22:00; Slippage=5; EquityPercent=2; MagicNumber=777; FixedLotSize=0.1; DynamicLotSize=true; StopLoss=100; TakeProfit=50; MinimumProfit=50; TrailingStop=50; StopLevelPips=5; BreakEvenProfit=20; WhenToTrail=100; TrailAmount=50; 
+0	13:42:25.459	date time trade USDCHF,H1: initialized
+0	13:42:44.039	date time trade USDCHF,H1: uninit reason 4
+0	13:42:44.110	Expert date time trade USDCHF,H1: removed
+0	15:16:38.705	Custom indicator Bands USDCAD,H1: loaded successfully
+0	15:16:38.723	Custom indicator Bands USDCAD,H1: loaded successfully
+0	15:16:38.771	Bands USDCAD,H1: initialized
+0	15:16:38.788	Bands USDCAD,H1: initialized
+0	18:04:39.897	Custom indicator Bands USDCAD,H1: loaded successfully
+0	18:04:39.918	Custom indicator Bands USDCAD,H1: loaded successfully
+0	18:04:39.970	Bands USDCAD,H1: initialized
+0	18:04:40.002	Bands USDCAD,H1: initialized
+0	18:15:00.291	Expert Jimmy\Trade on datetime\date time trade USDCHF,H1: loaded successfully
+0	18:15:39.026	date time trade USDCHF,H1 inputs: StartTradingTime=08:00; StopTradingTime=22:00; Slippage=5; EquityPercent=2; MagicNumber=777; FixedLotSize=0.1; DynamicLotSize=true; StopLoss=50; TakeProfit=100; MinimumProfit=50; TrailingStop=50; StopLevelPips=5; BreakEvenProfit=20; WhenToTrail=80; TrailAmount=50; OpenPosition=1; MinProfit=20; 
+0	18:15:39.139	date time trade USDCHF,H1: initialized
+0	18:15:49.016	date time trade USDCHF,H1: uninit reason 4
+0	18:15:49.084	Expert date time trade USDCHF,H1: removed
