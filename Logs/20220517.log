@@ -5,3 +5,7 @@
 0	22:50:12.201	Expert Jimmy\Trade on datetime\date time trade USDCHF,H1: loaded successfully
 0	22:51:17.827	date time trade USDCHF,H1 inputs: HINT01=====================================; StartTradingTime=08:00; StopTradingTime=22:00; Slippage=5; EquityPercent=2; MagicNumber=777; FixedLotSize=0.1; DynamicLotSize=true; OpenPosition=0; StopLoss=100; TakeProfit=50; HINT02====================================; BreakEven=20; TrailingStop=20; AllowBE=true; AllowTrailStop=true; 
 0	22:51:17.912	date time trade USDCHF,H1: initialized
+0	22:53:09.756	Custom indicator Bands USDCAD,H1: loaded successfully
+0	22:53:09.800	Custom indicator Bands USDCAD,H1: loaded successfully
+0	22:53:09.826	Bands USDCAD,H1: initialized
+0	22:53:09.843	Bands USDCAD,H1: initialized

@@ -438,7 +438,7 @@ int     OpenOrdersThisPair(string argSymbol)
 void    TrailingStop(string argSymbol, int argMagicNumber, double argPipPoint, int argTrailingStop)
         {
             //Buy Order Section
-            for (int i = OrdersTotal()-1; i >= 0; i--)
+            for (int i = 0; i < OrdersTotal(); i++)
                 {
                     if (!OrderSelect(i, SELECT_BY_POS))
                         {
@@ -458,7 +458,7 @@ void    TrailingStop(string argSymbol, int argMagicNumber, double argPipPoint, i
                 }
                 
             //Sell Order Section
-            for (int i = OrdersTotal()-1; i >= 0; i--)
+            for (int i = 0; i < OrdersTotal(); i++)
                 {
                     if (!OrderSelect(i, SELECT_BY_POS))
                         {
