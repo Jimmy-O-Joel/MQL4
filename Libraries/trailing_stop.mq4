@@ -12,7 +12,7 @@
 //+------------------------------------------------------------------+
 //| My function                                                      |
 //+------------------------------------------------------------------+
-void    TrailingStop(string argSymbol, int argMagicNumber, double argPipPoint, int argTrailingStop)
+void    TrailingStop(string argSymbol, int argMagicNumber, double argPipPoint, int argTrailingStop, int argTrailingStart)
         {
             //Buy Order Section
             for (int i = 0; i < OrdersTotal(); i++)
@@ -22,7 +22,7 @@ void    TrailingStop(string argSymbol, int argMagicNumber, double argPipPoint, i
                             Print("Order Select Error #", GetLastError(), ": ", ErrorDescription(GetLastError()));
                         }
                     if  (OrderMagicNumber() == argMagicNumber && OrderSymbol() == argSymbol && OrderType() == OP_BUY)
-                        if  (Bid - OrderOpenPrice() > argTrailingStop * argPipPoint)
+                        if  (Bid - OrderOpenPrice() > argTrailingStart * argPipPoint)
                             if  (OrderStopLoss() < Bid - argTrailingStop * argPipPoint)
                                 {
                                     bool Mod =  OrderModify(OrderTicket(), OrderOpenPrice(), Bid - (argTrailingStop*argPipPoint), OrderTakeProfit(), 0, clrNONE); 
@@ -42,7 +42,7 @@ void    TrailingStop(string argSymbol, int argMagicNumber, double argPipPoint, i
                             Print("Order Select Error #", GetLastError(), ": ", ErrorDescription(GetLastError()));
                         }
                     if  (OrderMagicNumber() == argMagicNumber && OrderSymbol() == argSymbol && OrderType() == OP_SELL)
-                        if  (OrderOpenPrice() - Ask > argTrailingStop * argPipPoint)
+                        if  (OrderOpenPrice() - Ask > argTrailingStart * argPipPoint)
                             if  (OrderStopLoss() > Ask + argTrailingStop * argPipPoint || OrderStopLoss() == 0)
                                 {
                                     bool Mod =  OrderModify(OrderTicket(), OrderOpenPrice(), Ask + (argTrailingStop*argPipPoint), OrderTakeProfit(), 0, clrNONE); 

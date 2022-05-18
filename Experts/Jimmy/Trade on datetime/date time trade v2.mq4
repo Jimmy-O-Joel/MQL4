@@ -9,6 +9,13 @@
 #property strict
 #include <stdlib.mqh>
 
+enum PositionOrderType
+  {
+        BuyOrder = OP_BUY,
+        SellOrder = OP_SELL,
+        
+  };
+
 sinput          string                                  HINT01                  =   "===================================="; // External variables
 input            string                                  StartTradingTime     =   "08:00";    //Start trading time
 input            string                                  StopTradingTime      =   "22:00";    //stop trading time
@@ -17,7 +24,7 @@ input            int                                       EquityPercent        
 input            int                                       MagicNumber          =   777;
 input            double                                 FixedLotSize          =   0.1;
 input            bool                                     DynamicLotSize     =   true;
-input            ENUM_ORDER_TYPE          OpenPosition          =   OP_SELL;
+input            PositionOrderType                OpenPosition ;
 input            int                                        StopLoss                =   100;
 input            int                                        TakeProfit                =   50;                               
 
@@ -25,6 +32,7 @@ input            int                                        TakeProfit          
 sinput          string                                    HINT02                   =   "==================================="; //Break Even and Trailing stop
 input            int                                        BreakEven               =   20;
 input            int                                        TrailingStop             =   20;
+input            int                                        TrailingStart            =   30;
 input            bool                                      AllowBE                  =    true;
 input            bool                                      AllowTrailStop          =    true;
 
@@ -36,6 +44,8 @@ datetime LastActionTime = 0;
 
 
 string  CurrentTime;
+
+
 
 //+------------------------------------------------------------------+
 //| Expert initialization function                                   |
@@ -171,7 +181,7 @@ void    OnTick()
                 }   
                 }
                 
-                if  (AllowTrailStop)   TrailingStop(Symbol(), MagicNumber, UsePoint, TrailingStop);
+                if  (AllowTrailStop)   TrailingStop(Symbol(), MagicNumber, UsePoint, TrailingStop, TrailingStart);
                 
                 if (AllowBE)    BreakEven(Symbol(), MagicNumber, BreakEven, UsePoint);
                 
@@ -435,7 +445,7 @@ int     OpenOrdersThisPair(string argSymbol)
             return Total;    
         }
 //+------------------------------------------------------------------+
-void    TrailingStop(string argSymbol, int argMagicNumber, double argPipPoint, int argTrailingStop)
+void    TrailingStop(string argSymbol, int argMagicNumber, double argPipPoint, int argTrailingStop, int argTrailingStart)
         {
             //Buy Order Section
             for (int i = 0; i < OrdersTotal(); i++)
@@ -445,7 +455,7 @@ void    TrailingStop(string argSymbol, int argMagicNumber, double argPipPoint, i
                             Print("Order Select Error #", GetLastError(), ": ", ErrorDescription(GetLastError()));
                         }
                     if  (OrderMagicNumber() == argMagicNumber && OrderSymbol() == argSymbol && OrderType() == OP_BUY)
-                        if  (Bid - OrderOpenPrice() > argTrailingStop * argPipPoint)
+                        if  (Bid - OrderOpenPrice() > argTrailingStart * argPipPoint)
                             if  (OrderStopLoss() < Bid - argTrailingStop * argPipPoint)
                                 {
                                     bool Mod =  OrderModify(OrderTicket(), OrderOpenPrice(), Bid - (argTrailingStop*argPipPoint), OrderTakeProfit(), 0, clrNONE); 
@@ -465,7 +475,7 @@ void    TrailingStop(string argSymbol, int argMagicNumber, double argPipPoint, i
                             Print("Order Select Error #", GetLastError(), ": ", ErrorDescription(GetLastError()));
                         }
                     if  (OrderMagicNumber() == argMagicNumber && OrderSymbol() == argSymbol && OrderType() == OP_SELL)
-                        if  (OrderOpenPrice() - Ask > argTrailingStop * argPipPoint)
+                        if  (OrderOpenPrice() - Ask > argTrailingStart * argPipPoint)
                             if  (OrderStopLoss() > Ask + argTrailingStop * argPipPoint || OrderStopLoss() == 0)
                                 {
                                     bool Mod =  OrderModify(OrderTicket(), OrderOpenPrice(), Ask + (argTrailingStop*argPipPoint), OrderTakeProfit(), 0, clrNONE); 
